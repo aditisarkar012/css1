@@ -1,0 +1,14 @@
+p{
+	color:royalblue;
+}
+.food{
+	background: lightpink;
+}
+.font-style{
+	font-style: italic;
+font-display: revert-layer;
+}
+#color{
+	font-style: italic;
+	font-size: 20px;
+}
